@@ -1,0 +1,1 @@
+<phpinclude('header.php');?>	<div id= body>		<div id= arrow>			<img src="#" alt="this is an arrow">		</div>		</div><phpinclude('footer.php');?>
