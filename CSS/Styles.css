@@ -1,0 +1,41 @@
+.header {
+
+}
+
+body {
+background-color:yellow;
+}
+
+.view {
+background-color:url ('images/view1');
+}
+
+.logo {
+	text-align: center;
+	margin: auto;
+	color: Red;
+}
+
+.logo h1 {
+	margin: auto;
+	font-size: 60;
+	font-family: Coalititon;
+	margin-top: 150px;
+}
+
+.logo h2 {
+	margin: 0px;
+	font-size: 45px;
+	margin-top: -16px;
+	font-family: Bebas;
+}
+
+.nav {
+	margin: auto;
+}
+
+.downarrow {
+    -moz-transform:rotate(90deg);
+    -webkit-transform:rotate(90deg);
+    width: 80px;
+}
