@@ -2,12 +2,9 @@
 
 }
 
-body {
-background-color:yellow;
-}
-
 .view {
-background-color:url ('images/view1');
+    height: 800px;
+    background-image:url('Images/view.svg');
 }
 
 .logo {
