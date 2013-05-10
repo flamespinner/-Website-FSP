@@ -10,13 +10,19 @@
         <div class="logo">
             <h1>Flamespinner</h1>
             <h2>Productions</h2>
-            <h3> Be back soon! </h3> 
-           <!-- <a href="#view1"><img src="Images/arrowred.svg" alt="enter" class="downarrow" id="arrow1" /></a> -->
+            <!--<h3> Be back soon! </h3> -->
+           <a href="#view2"><img src="Images/arrowred.svg" alt="enter" class="downarrow" id="arrow1" /></a>
         </div>
         
 <!--<div id="nav">
-	<p><a href="#">Nav1</a> &#8226 <a href="#">Nav2</a> &#8226 <a href="#">Nav3</a> &#8226 <a href="#">Nav4</a> &#8226 <a href="#">Nav5</a> &#8226 <a href="#games">Games</a></p>
+	<p><a href="#view2">Home</a> &#8226 <a href="#">Nav2</a> &#8226 <a href="#">Nav3</a> &#8226 <a href="#">Nav4</a> &#8226 <a href="#">Nav5</a> &#8226 <a href="#games">Games</a></p>
 </div>-->
 		<div>
+		
+		<div id="view2">
+			<div id="header">
+				<h1>Flamespinner Productions</h1>
+			</div>		
+		</div>
     </div>
     </body>

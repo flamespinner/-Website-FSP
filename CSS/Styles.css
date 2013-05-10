@@ -2,6 +2,10 @@
 
 }
 
+body {
+	background-color: Black;
+}
+
 .logo {
 	text-align: center;
 	margin: auto;
@@ -30,4 +34,21 @@
     -moz-transform:rotate(90deg);
     -webkit-transform:rotate(90deg);
     width: 80px;
+}
+
+.view2 {
+	background: white;
+	/*background: url ('');*/
+}
+
+.header {
+	text-align: left;
+	margin: auto;
+	color: red;	
+}
+
+.head h1 {
+	color: red;
+	font-size: 60px;
+	font-family: Babas;
 }
