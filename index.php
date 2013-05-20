@@ -99,13 +99,13 @@ include('classes.php');
                 <a class="button bigbutton" href="mailto:brendan@dbztech.com"><p>@Contact</p></a>
             </div>
             <div class="info" itemscope itemtype="http://schema.org/Organization">
-                <h1><span itemprop="name">DBZ Technology</span></h1>
+                <h1><span itemprop="name">Flamespinner Productions</span></h1>
                 <div itemprop="address" itemscope itemtype="http://schema.org/PostalAddress">
-                  <i>Location: <span itemprop="addressLocality">Woodbury</span>,
+                  <i>Location: <span itemprop="addressLocality">Maplewood</span>,
                   <span itemprop="addressRegion">MN</span></i>
                 </div>
                 <br />
-                <i>Tel: <span itemprop="telephone"><a href="tel:6513469760">(651)-346-9760</a></span></i>
+                <i>Tel: <span itemprop="telephone"><a href="tel:6513469760">(651)-481-4946</a></span></i>
                 <br />
                 <i>Email: <span itemprop="email"><a href="mailto:flamespinnerproductions@gmail.com">flamespinnerproductions@gmail.com</a></span></i>
             </div>
