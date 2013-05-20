@@ -94,9 +94,7 @@ include('classes.php');
            <br />
             <div class="buttonholder">
                 <a class="button smallbutton" href="/Profile"><p id="profilebutton">Profile</p></a>
-                <a class="button smallbutton" href="/Repair"><p id="repairbutton">Computer Repair</p></a>
-                <a class="button smallbutton" href="/Apps"><p id="appsbutton">Apps</p></a>
-                <a class="button bigbutton" href="mailto:brendan@dbztech.com"><p>@Contact</p></a>
+                <a class="button bigbutton" href="mailto:flamespinnerproductions@gmail.com"><p>@Contact</p></a>
             </div>
             <div class="info" itemscope itemtype="http://schema.org/Organization">
                 <h1><span itemprop="name">Flamespinner Productions</span></h1>
